@@ -2,4 +2,5 @@ The Rainbow
 Pink
 Orange
 Blue
+Green
 Read these are the colors of a rainbow
