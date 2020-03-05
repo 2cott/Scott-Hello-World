@@ -3,4 +3,6 @@ Pink
 Orange
 Blue
 Green
+Yellow
+Red
 Read these are the colors of a rainbow
